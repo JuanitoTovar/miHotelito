@@ -38,18 +38,18 @@ Cumplir cualquier espectativa del nuestro clientes en cuanto a hospedaje.
 [Minutes Text Notes][15]
 
 
-[1](http://daringfireball.net/projects/markdown/dingus)
-[2](http://markable.in/)
-[3](http://markdown-here.com/)
-[4](https://www.genbeta.com/correo/usa-markdown-para-formatear-correos-electronicos-con-markdown-here)
-[5](http://markdownpad.com/)
-[6](https://www.genbeta.com/herramientas/markdownpad-editando-markdown-en-windows-eficientemente)
-[7](http://sourceforge.net/p/retext/home/ReText/)
-[8](https://www.genbeta.com/herramientas/retext-interesante-editor-markdown-para-linux)
-[9](:http://mouapp.com/)
-[10](https://www.applesfera.com/aplicaciones-os-x-1/mou-un-interesante-editor-web-en-markdown-en-desarrollo-para-os-x-lion)
-[11](https://itunes.apple.com/es/app/id396073482)
-[12](https://play.google.com/store/apps/details?id=net.keepzero.markdrop)
-[13](https://play.google.com/store/apps/details?id=com.twostorks.android.denote)
-[14](https://play.google.com/store/apps/details?id=com.fusionfenix.notal)
-[15](https://play.google.com/store/apps/details?id=com.saelimbilly.genericdatabaseapp)
+[1]: http://daringfireball.net/projects/markdown/dingus
+[2]: http://markable.in/
+[3]: http://markdown-here.com/
+[4]: https://www.genbeta.com/correo/usa-markdown-para-formatear-correos-electronicos-con-markdown-here
+[5]: http://markdownpad.com/
+[6]: https://www.genbeta.com/herramientas/markdownpad-editando-markdown-en-windows-eficientemente
+[7]: http://sourceforge.net/p/retext/home/ReText/
+[8]: https://www.genbeta.com/herramientas/retext-interesante-editor-markdown-para-linux
+[9]: http://mouapp.com/
+[10]: https://www.applesfera.com/aplicaciones-os-x-1/mou-un-interesante-editor-web-en-markdown-en-desarrollo-para-os-x-lion
+[11]: https://itunes.apple.com/es/app/id396073482
+[12]: https://play.google.com/store/apps/details?id=net.keepzero.markdrop
+[13]: https://play.google.com/store/apps/details?id=com.twostorks.android.denote
+[14]: https://play.google.com/store/apps/details?id=com.fusionfenix.notal
+[15]: https://play.google.com/store/apps/details?id=com.saelimbilly.genericdatabaseapp
