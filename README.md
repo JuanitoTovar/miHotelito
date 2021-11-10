@@ -22,7 +22,7 @@ Cumplir cualquier espectativa del nuestro clientes en cuanto a hospedaje.
 
 
 ##### Referencias:
-[Joe Di Castro] (http://joedicastro.com/pages/markdown.html)
+[Joe Di Castro](http://joedicastro.com/pages/markdown.html)
 
 ###### Editores Markdown:
 [Dingus](http://daringfireball.net/projects/markdown/dingus)
