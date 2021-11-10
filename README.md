@@ -27,17 +27,17 @@ Cumplir cualquier espectativa del nuestro clientes en cuanto a hospedaje.
 [Gruber](http://daringfireball.net/projects/markdown/syntax)
 
 ###### Editores Markdown:
-[Dingus][1] 
-[Markable][2]
-[Markdown Here][3] Se habla mas de ella [aqui][4]
-[MarkdownPad][5] es un programa para windows y es habla mas [aqui][6]
-[ReText][7] es una aplicación para linux y se detalla mas [aqui][8] y se puede usar reStructuredText y permite exportar a HTML, ODT, PDF.
-[Mou][9] es para [MacOs][10]
-[Nocs][11] es de IOS
-[MarkDrop][12]
-[Denote][13]
-[Notal][14]
-[Minutes Text Notes][15]
+[Dingus][1]   
+[Markable][2]  
+[Markdown Here][3] Se habla mas de ella [aqui][4]  
+[MarkdownPad][5] es un programa para windows y es habla mas [aqui][6]  
+[ReText][7] es una aplicación para linux y se detalla mas [aqui][8] y se puede usar reStructuredText y permite exportar a HTML, ODT, PDF.  
+[Mou][9] es para [MacOs][10]  
+[Nocs][11] es de IOS  
+[MarkDrop][12]  
+[Denote][13]  
+[Notal][14]  
+[Minutes Text Notes][15]  
 
 
 [1]: http://daringfireball.net/projects/markdown/dingus
