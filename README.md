@@ -20,8 +20,7 @@ Cumplir cualquier espectativa del nuestro clientes en cuanto a hospedaje.
     - Costo de 3,000 a 5,000
     - Costo de 500 a 3,000
 
-#### URL del repositorio de trabajo:
-<https://github.com/JuanitoTovar/miHotelito.git>
+#### URL del repositorio de trabajo: <https://github.com/JuanitoTovar/miHotelito.git>
 
 ##### Referencias:
 [Joe Di Castro](http://joedicastro.com/pages/markdown.html)
