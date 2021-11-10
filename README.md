@@ -25,14 +25,31 @@ Cumplir cualquier espectativa del nuestro clientes en cuanto a hospedaje.
 [Joe Di Castro](http://joedicastro.com/pages/markdown.html)
 
 ###### Editores Markdown:
-[Dingus](http://daringfireball.net/projects/markdown/dingus)
-[Markable](http://markable.in/:)
-[Markdown Here](http://markdown-here.com/) Se habla mas de ella [aqui](https://www.genbeta.com/correo/usa-markdown-para-formatear-correos-electronicos-con-markdown-here)
-[MarkdownPad](http://markdownpad.com/) es un programa para windows y es habla mas [aqui](https://www.genbeta.com/herramientas/markdownpad-editando-markdown-en-windows-eficientemente)
-[ReText](http://sourceforge.net/p/retext/home/ReText/) es una aplicación para linux y se detalla mas [aqui](https://www.genbeta.com/herramientas/retext-interesante-editor-markdown-para-linux) y se puede usar reStructuredText y permite exportar a HTML, ODT, PDF.
-[Mou](:http://mouapp.com/) es para [MacOs] (https://www.applesfera.com/aplicaciones-os-x-1/mou-un-interesante-editor-web-en-markdown-en-desarrollo-para-os-x-lion)
-[Nocs](https://itunes.apple.com/es/app/id396073482) es de IOS
-[MarkDrop](https://play.google.com/store/apps/details?id=net.keepzero.markdrop)
-[Denote](https://play.google.com/store/apps/details?id=com.twostorks.android.denote)
-[Notal](https://play.google.com/store/apps/details?id=com.fusionfenix.notal)
-[Minutes Text Notes](https://play.google.com/store/apps/details?id=com.saelimbilly.genericdatabaseapp)
+[Dingus][1] 
+[Markable][2]
+[Markdown Here][3] Se habla mas de ella [aqui][4]
+[MarkdownPad][5] es un programa para windows y es habla mas [aqui][6]
+[ReText][7] es una aplicación para linux y se detalla mas [aqui][8] y se puede usar reStructuredText y permite exportar a HTML, ODT, PDF.
+[Mou][9] es para [MacOs][10]
+[Nocs][11] es de IOS
+[MarkDrop][12]
+[Denote][13]
+[Notal][14]
+[Minutes Text Notes][15]
+
+
+[1](http://daringfireball.net/projects/markdown/dingus)
+[2](http://markable.in/)
+[3](http://markdown-here.com/)
+[4](https://www.genbeta.com/correo/usa-markdown-para-formatear-correos-electronicos-con-markdown-here)
+[5](http://markdownpad.com/)
+[6](https://www.genbeta.com/herramientas/markdownpad-editando-markdown-en-windows-eficientemente)
+[7](http://sourceforge.net/p/retext/home/ReText/)
+[8](https://www.genbeta.com/herramientas/retext-interesante-editor-markdown-para-linux)
+[9](:http://mouapp.com/)
+[10](https://www.applesfera.com/aplicaciones-os-x-1/mou-un-interesante-editor-web-en-markdown-en-desarrollo-para-os-x-lion)
+[11](https://itunes.apple.com/es/app/id396073482)
+[12](https://play.google.com/store/apps/details?id=net.keepzero.markdrop)
+[13](https://play.google.com/store/apps/details?id=com.twostorks.android.denote)
+[14](https://play.google.com/store/apps/details?id=com.fusionfenix.notal)
+[15](https://play.google.com/store/apps/details?id=com.saelimbilly.genericdatabaseapp)
