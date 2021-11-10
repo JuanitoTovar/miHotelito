@@ -1,5 +1,5 @@
 # miHotelito
-
+- - -
 #### Objetivo:
 Ofrecer a nuestros clientes varias opción de hospedaje de acuerdo a su presupuesto y al plan vacional con el que cuentan.
 
