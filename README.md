@@ -1,12 +1,12 @@
 # miHotelito
 
-####Objetivo:
+#### Objetivo:
 Ofrecer a nuestros clientes varias opción de hospedaje de acuerdo a su presupuesto y al plan vacional con el que cuentan.
 
-####Misión:
+#### Misión:
 Cumplir cualquier espectativa del nuestro clientes en cuanto a hospedaje.
 
-####Tipos de hospedaje.
+#### Tipos de hospedaje.
 1. Hoteles 5 estrellas.
 2. Hoteles 4 estrellas.
 3. Hoteles 3 estrellas.
@@ -21,10 +21,10 @@ Cumplir cualquier espectativa del nuestro clientes en cuanto a hospedaje.
     - Costo de 500 a 3,000
 
 
-Referencias:
+##### Referencias:
 [Joe Di Castro] (http://joedicastro.com/pages/markdown.html)
 
-Editores Markdown:
+###### Editores Markdown:
 [Dingus](http://daringfireball.net/projects/markdown/dingus)
 [Markable](http://markable.in/:)
 [Markdown Here](http://markdown-here.com/) Se habla mas de ella [aqui](https://www.genbeta.com/correo/usa-markdown-para-formatear-correos-electronicos-con-markdown-here)
