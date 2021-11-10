@@ -22,8 +22,9 @@ Cumplir cualquier espectativa del nuestro clientes en cuanto a hospedaje.
 
 #### URL del repositorio de trabajo: <https://github.com/JuanitoTovar/miHotelito.git>
 
-##### Referencias:
+##### Referencias de comandos para escribir esta pagina:
 [Joe Di Castro](http://joedicastro.com/pages/markdown.html)
+[Gruber](http://daringfireball.net/projects/markdown/syntax)
 
 ###### Editores Markdown:
 [Dingus][1] 
